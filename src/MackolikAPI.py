@@ -33,10 +33,10 @@ def get_team_urls(league):
                "Cookie": "__gfp_64b=dhmw9J1QJnLwqLN7bKvnZQ4P_a7RmXolhpw5k90hn5r.U7; __auc=ab3f6f1e15e8fdec736d894ca2f; _ga=GA1.2.455780513.1505652296; _gid=GA1.2.1230460567.1507370259"}
     soup = util.get_soup(base_url + str(league.code), headers=headers)
     tag_list = soup.find_all("a")
-    dict = {"league": league, "url_list": []}
+    url_list = []
     for tag in tag_list:
-        dict["url_list"].append(tag["href"])
-    return dict
+        url_list.append(tag["href"])
+    return url_list
 
 
 def get_team(league, team_url):
@@ -76,7 +76,7 @@ def get_team(league, team_url):
 
 def get_player_urls(team):
     base_url = "http://www.mackolik.com/Team/SquadData.aspx?id="
-    json = util.get_json(base_url + str(team.code))
+    json = util.json_without_check(base_url + str(team.code), headers=None)
     squad = json["s"]
 
     url_list = []
@@ -101,13 +101,25 @@ def get_player(team, url):
     country = Country.new_instance(country_name, country_flag)
 
     info_div = right_div.find("div", {"id": "dvPlayerInfo"}).find_all("div")
-    long_name = info_div[1].text.replace(":","").strip()
-    birth_date = info_div[3].text.replace(":", "").strip()[0:10]
-    birth_place = info_div[5].text.replace(":", "").strip()
-    height = info_div[7].text.replace(":", "").strip()
-    weight = info_div[9].text.replace(":", "").strip()
-    position = info_div[11].text.replace(":", "").strip()
-    contract_expiry_date = info_div[13].text.replace(":", "").strip()
+
+    tag_dict = {}
+    i = 0
+    for x in range(len(info_div) // 2):
+        cleared_title = info_div[i].text.replace(":", "").strip()
+        cleared_value = info_div[i+1].text.replace(":", "").replace("\r", "").replace("\n", "").strip()
+        tag_dict[cleared_title] = cleared_value
+        i += 2
+
+    long_name = util.get_value(tag_dict, "Uzun Adı")
+    birth_date = util.get_value(tag_dict, "D.Tarihi")
+    if birth_date:
+        birth_date = birth_date[0:10]
+    birth_place = util.get_value(tag_dict, "D.Yeri")
+    height = util.get_value(tag_dict, "Boy")
+    weight = util.get_value(tag_dict, "Kilo")
+    position = util.get_value(tag_dict, "Pozisyon")
+    contract_expiry_date = util.get_value(tag_dict, "Kontrat Sonu")
+
     player = Player(team, name, long_name, birth_date, birth_place, height, weight, position, contract_expiry_date, country, photo_url, url)
     team.players.append(player)
 

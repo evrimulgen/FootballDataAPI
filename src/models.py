@@ -9,6 +9,9 @@ class Country:
         self.flag_url = flag_url
         Country.country_list.append(self)
 
+    def asd(self):
+        return "asd";
+
     def __str__(self):
         return self.name
 

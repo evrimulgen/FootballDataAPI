@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import json
 import requests
 
+
 BASE_URL = "http://www.mackolik.com/"
 
 
@@ -11,10 +12,12 @@ def control_none(func, args):
     while result is None:
         try:
             result = func(*args)
+            trial_count += 1
         except Exception:
             pass
         if trial_count == 5:
             write_error("Network Problem --- " + func.__name__ + " faced problem....")
+            
     return result
 
 
@@ -33,6 +36,13 @@ def check_exception(func, args):
             pass
 
 
+def get_value(dict, key):
+    try:
+        return dict[key]
+    except KeyError:
+        return None
+
+
 def open_url(url, headers):
     return requests.get(url, headers=headers)
 
@@ -45,8 +55,8 @@ def get_soup(url, headers=None):
     return control_none(soup, (url, headers))
 
 
-def json(url, headers):
-    return json.loads(open_url(control_none(open_url, (url, headers)).text, headers))
+def json_without_check(url, headers):
+    return json.loads(control_none(open_url, (url, headers)).text)
 
 
 def get_json(url, headers=None):
