@@ -1,5 +1,4 @@
-import util as util
-
+import src.util as util
 from src.models import Country, League, Team, Stadium, Player
 
 
@@ -18,9 +17,13 @@ def get_league_urls():
 def get_league(url):
     soup = util.get_soup(url)
     img_tag = soup.find("h1", {"class": "season-league"}).find("img")
-    country = Country.new_instance(img_tag.text.strip().split()[0], img_tag["src"])
+
+    county_name = img_tag.text.strip().split()[0]
+    flag_url = img_tag["src"]
+    country = Country.new_instance(county_name, flag_url)
+
     league_name = " ".join(img_tag.text.strip().split(" ")[1:len(img_tag.text.strip())])
-    return League(country, league_name, url)
+    return League.new_instance(country=country, name=league_name, url=url)
 
 
 def get_team_urls(league):
@@ -45,7 +48,7 @@ def get_team(league, team_url):
     name = div.find("h1", {"itemprop": "name"}).text.strip()
     logo_url = div.find("img")["src"]
 
-    rows = div.find("table", {"class":"kulup-tbl"}).find_all("tr")
+    rows = div.find("table", {"class": "kulup-tbl"}).find_all("tr")
     raw_data = []
     for row in rows:
         try:
@@ -61,7 +64,7 @@ def get_team(league, team_url):
     except:
         stadium_url = None
         util.write_error("Parse Error --- " + name + " has stadium url error...")
-    stadium = Stadium(stadium_name, capacity, stadium_url)
+    stadium = Stadium.new_instance(stadium_name, stadium_url, capacity)
 
     found_date = raw_data[0].text.strip()
     website_url = raw_data[2].text.strip()
@@ -69,8 +72,8 @@ def get_team(league, team_url):
     fax_number = raw_data[5].text.strip()
     address = raw_data[6].text.strip()
 
-    team = Team(league, name, logo_url, website_url, found_date, phone_number, fax_number, address, stadium, team_url)
-
+    team = Team.new_instance(name, league, stadium, found_date, address, phone_number, fax_number, website_url,
+                             logo_url, team_url)
     return team
 
 
@@ -116,13 +119,16 @@ def get_player(team, url):
         birth_date = birth_date[0:10]
     birth_place = util.get_value(tag_dict, "D.Yeri")
     height = util.get_value(tag_dict, "Boy")
+    if height:
+        height = height.replace("cm", "")
     weight = util.get_value(tag_dict, "Kilo")
+    if weight:
+        weight = weight.replace("kg", "")
     position = util.get_value(tag_dict, "Pozisyon")
     contract_expiry_date = util.get_value(tag_dict, "Kontrat Sonu")
 
-    player = Player(team, name, long_name, birth_date, birth_place, height, weight, position, contract_expiry_date, country, photo_url, url)
-    team.players.append(player)
-
+    player = Player.new_instance(name, team, country, long_name, birth_date, birth_place, height, weight, position,
+                                 contract_expiry_date, photo_url, url)
     return player
 
 

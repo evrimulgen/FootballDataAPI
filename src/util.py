@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
-import json
-import requests
+import requests, os, sys, json
 
 
 BASE_URL = "http://www.mackolik.com/"
@@ -27,13 +26,22 @@ def check_exception(func, args):
         try:
             return func(*args)
         except Exception as e:
-            print("Error trying again " + func.__name__ + " " + str(e))
+            if trial_count == 0:
+                print("\t\t\t" + "-" * 38)
+            print("\t\t\tError. Program will try again {} times. ".format(3-trial_count+1))
             if trial_count == 3:
-                print("Giving up " + func.__name__ + " " + str(e))
-                write_error("Giving Up Error --- Giving up\t" + func.__name__ + "\t" + str(e) + "\t" + str(args))
+                exc_type, exc_obj, exc_tb = sys.exc_info()
+                file_name = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+                msg = str(exc_type) + "\t" + str(file_name) + "\t" + str(exc_tb.tb_lineno) + "\t" + \
+                      func.__name__ + "\t" + str(e)
+                write_error("Giving Up Error --- " + msg)
+                print("\t\t\tGiving up trying. Error can't solve. " + msg)
+                print("\t\t\t" + "-" * len(msg))
                 return None
             trial_count += 1
             pass
+
+
 
 
 def get_value(dict, key):
@@ -83,6 +91,5 @@ def find_code(url):
 
 
 def write_error(error_message):
-    print("\t\t\t\t" + error_message)
     with open('errors.txt', 'a') as file:
         file.write(error_message + "\n")
