@@ -1,0 +1,1771 @@
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_league	'NoneType' object has no attribute 'find'
+Parse Error --- Meppen has stadium url error...
+Parse Error --- Talleres Cordoba has stadium url error...
+Parse Error --- Wattens has stadium url error...
+Parse Error --- Blau-Weiss Linz has stadium url error...
+Parse Error --- Sport Boys Warnes has stadium url error...
+Parse Error --- Petrolero Yacuiba has stadium url error...
+Parse Error --- Sport Boys Warnes has stadium url error...
+Parse Error --- Petrolero Yacuiba has stadium url error...
+Parse Error --- CRB has stadium url error...
+Parse Error --- Oeste has stadium url error...
+Parse Error --- Boa EC has stadium url error...
+Parse Error --- Ferroviaria has stadium url error...
+Parse Error --- Linense has stadium url error...
+Parse Error --- Novorizontino has stadium url error...
+Parse Error --- Botafogo SP has stadium url error...
+Parse Error --- Ituano has stadium url error...
+Parse Error --- Osasco Audax has stadium url error...
+Parse Error --- Sao Bento has stadium url error...
+Parse Error --- Mirassol FC has stadium url error...
+Parse Error --- RB Brasil has stadium url error...
+Parse Error --- Sao Bernardo FC has stadium url error...
+Parse Error --- Karvina has stadium url error...
+Parse Error --- Qingdao Huanghai has stadium url error...
+Parse Error --- Meizhou Hakka has stadium url error...
+Parse Error --- Dalian Yifang has stadium url error...
+Parse Error --- Beijing Enterprises has stadium url error...
+Parse Error --- Nei Mongol Zhongyou has stadium url error...
+Parse Error --- Lijiang Jiayunhao has stadium url error...
+Parse Error --- Baoding Yingli Yitong has stadium url error...
+Parse Error --- Wuhan Zall has stadium url error...
+Parse Error --- Shenzhen FC has stadium url error...
+Parse Error --- Zhejiang Yiteng has stadium url error...
+Parse Error --- Shanghai Shenxin has stadium url error...
+Parse Error --- Xinjiang Tianshan has stadium url error...
+Parse Error --- Dalian Transcendence has stadium url error...
+Parse Error --- Vendsyssel FF has stadium url error...
+Parse Error --- Fremad Amager has stadium url error...
+Parse Error --- Brabrand has stadium url error...
+Parse Error --- Nykobing has stadium url error...
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Parse Error --- Delfin has stadium url error...
+Parse Error --- Universidad Catolica has stadium url error...
+Parse Error --- River Plate Ecuador has stadium url error...
+Parse Error --- Clan Juvenil has stadium url error...
+Parse Error --- Delfin has stadium url error...
+Parse Error --- River Plate Ecuador has stadium url error...
+Parse Error --- Universidad Catolica has stadium url error...
+Parse Error --- Clan Juvenil has stadium url error...
+Parse Error --- Ekenas IF has stadium url error...
+Parse Error --- GrIFK has stadium url error...
+Parse Error --- OPS has stadium url error...
+Parse Error --- Gnistan has stadium url error...
+Parse Error --- Lyon-Duchere has stadium url error...
+Parse Error --- Pau has stadium url error...
+Parse Error --- Les Herbiers has stadium url error...
+Parse Error --- Cholet has stadium url error...
+Parse Error --- Consolat Marseille has stadium url error...
+Parse Error --- Avranches has stadium url error...
+Parse Error --- Beziers has stadium url error...
+Parse Error --- FC Seoul has stadium url error...
+Parse Error --- Gwangju has stadium url error...
+Parse Error --- Incheon United has stadium url error...
+Parse Error --- FC Seoul has stadium url error...
+Parse Error --- Gwangju has stadium url error...
+Parse Error --- Incheon United has stadium url error...
+Parse Error --- Asan Mugunghwa has stadium url error...
+Parse Error --- Bucheon 1995 has stadium url error...
+Parse Error --- Seoul E-Land has stadium url error...
+Parse Error --- Anyang has stadium url error...
+Parse Error --- Suwon FC has stadium url error...
+Parse Error --- Ansan Greeners has stadium url error...
+Parse Error --- Utrecht II has stadium url error...
+Parse Error --- Helmond Sport has stadium url error...
+Parse Error --- PSV II has stadium url error...
+Parse Error --- Dover Athletic has stadium url error...
+Parse Error --- Woking has stadium url error...
+Parse Error --- Ebbsfleet United has stadium url error...
+Parse Error --- Maidenhead United has stadium url error...
+Parse Error --- Maidstone United has stadium url error...
+Parse Error --- Eastleigh has stadium url error...
+Parse Error --- Fylde has stadium url error...
+Parse Error --- Boreham Wood has stadium url error...
+Parse Error --- Halifax Town has stadium url error...
+Parse Error --- Solihull Moors has stadium url error...
+Parse Error --- Chester has stadium url error...
+Parse Error --- Guiseley has stadium url error...
+Parse Error --- Bromley has stadium url error...
+Parse Error --- Finn Harps has stadium url error...
+Parse Error --- Cabinteely has stadium url error...
+Parse Error --- Waterford United has stadium url error...
+Parse Error --- Cobh Ramblers has stadium url error...
+Parse Error --- Wexford Youths has stadium url error...
+Parse Error --- Stenhousemuir has stadium url error...
+Parse Error --- Edinburgh City has stadium url error...
+Parse Error --- Lorca FC has stadium url error...
+Parse Error --- AFC Eskilstuna has stadium url error...
+Parse Error --- IK Frej Taby has stadium url error...
+Parse Error --- Varbergs BoIS FC has stadium url error...
+Parse Error --- Degerfors has stadium url error...
+Parse Error --- Norrby IF has stadium url error...
+Parse Error --- Dalkurd has stadium url error...
+Parse Error --- Rapperswil-Jona has stadium url error...
+Parse Error --- SPAL has stadium url error...
+Parse Error --- Foggia Calcio has stadium url error...
+Parse Error --- Cremonese has stadium url error...
+Parse Error --- Vikingur Reykjavik has stadium url error...
+Parse Error --- Vikingur Olafsvik has stadium url error...
+Parse Error --- Fjölnir has stadium url error...
+Parse Error --- FH Hafnarfjordur has stadium url error...
+Parse Error --- HK Kopavogur has stadium url error...
+Parse Error --- Throttur Reykjavik has stadium url error...
+Parse Error --- Keflavik has stadium url error...
+Parse Error --- IR Reykjavik has stadium url error...
+Parse Error --- UMF Selfoss has stadium url error...
+Parse Error --- Grotta has stadium url error...
+Parse Error --- Haukar has stadium url error...
+Parse Error --- Leiknir Faskrudsfjordur has stadium url error...
+Parse Error --- V-Varen Nagasaki has stadium url error...
+Parse Error --- JEF United has stadium url error...
+Parse Error --- Tokyo Verdy has stadium url error...
+Parse Error --- Kyoto Sanga has stadium url error...
+Parse Error --- Matsumoto Yamaga has stadium url error...
+Parse Error --- Mito HollyHock has stadium url error...
+Parse Error --- Zweigen Kanazawa has stadium url error...
+Parse Error --- Roasso Kumamoto has stadium url error...
+Parse Error --- Montedio Yamagata has stadium url error...
+Parse Error --- Ehime FC has stadium url error...
+Parse Error --- Renofa Yamaguchi has stadium url error...
+Parse Error --- FC Gifu has stadium url error...
+Parse Error --- Fagiano Okayama has stadium url error...
+Parse Error --- Yokohama FC has stadium url error...
+Parse Error --- ThespaKusatsu Gunma has stadium url error...
+Parse Error --- Kamatamare Sanuki has stadium url error...
+Parse Error --- Jaguares De Cordoba has stadium url error...
+Parse Error --- La Equidad has stadium url error...
+Parse Error --- America de Cali has stadium url error...
+Parse Error --- Atletico Bucaramanga has stadium url error...
+Parse Error --- Atletico Huila has stadium url error...
+Parse Error --- Deportivo Pasto has stadium url error...
+Parse Error --- Alianza Petrolera has stadium url error...
+Parse Error --- Cortulua Tulua has stadium url error...
+Parse Error --- Tigres FC has stadium url error...
+Parse Error --- Envigado has stadium url error...
+Parse Error --- Atletico Bucaramanga has stadium url error...
+Parse Error --- Envigado has stadium url error...
+Parse Error --- America de Cali has stadium url error...
+Parse Error --- La Equidad has stadium url error...
+Parse Error --- Jaguares De Cordoba has stadium url error...
+Parse Error --- Cortulua Tulua has stadium url error...
+Parse Error --- Atletico Huila has stadium url error...
+Parse Error --- Tigres FC has stadium url error...
+Parse Error --- Alianza Petrolera has stadium url error...
+Parse Error --- Deportivo Pasto has stadium url error...
+Parse Error --- Budapest Vasas has stadium url error...
+Parse Error --- Balmazujvaros Sport has stadium url error...
+Parse Error --- Mezokövesd-Zsory has stadium url error...
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find'
+Parse Error --- UTC Cajamarca has stadium url error...
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find'
+Parse Error --- Halide Edip Adıvar SK has stadium url error...
+Parse Error --- Elaziz Belediyespor has stadium url error...
+Parse Error --- Veres has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Parse Error --- Lamia has stadium url error...
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'contents'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'contents'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'contents'
+Parse Error --- Sport Boys Warnes has stadium url error...
+Parse Error --- Petrolero Yacuiba has stadium url error...
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Parse Error --- Delfin has stadium url error...
+Parse Error --- River Plate Ecuador has stadium url error...
+Parse Error --- Universidad Catolica has stadium url error...
+Parse Error --- Clan Juvenil has stadium url error...
+Parse Error --- FC Seoul has stadium url error...
+Parse Error --- Gwangju has stadium url error...
+Parse Error --- Incheon United has stadium url error...
+Parse Error --- IK Oddevold has stadium url error...
+Parse Error --- FK Karlskrona has stadium url error...
+Parse Error --- Skövde AIK has stadium url error...
+Parse Error --- Assyriska BK has stadium url error...
+Parse Error --- Husqvarna FF has stadium url error...
+Parse Error --- Qviding FIF has stadium url error...
+Parse Error --- Kristianstads FF has stadium url error...
+Parse Error --- Oskarshamns AIK has stadium url error...
+Parse Error --- Angelholm has stadium url error...
+Parse Error --- Rosengard has stadium url error...
+Parse Error --- Akropolis IF has stadium url error...
+Parse Error --- Sandvikens IF has stadium url error...
+Parse Error --- Team TG FF has stadium url error...
+Parse Error --- Enskede IK has stadium url error...
+Parse Error --- Carlstad United BK has stadium url error...
+Parse Error --- Nyköpings BIS has stadium url error...
+Parse Error --- Sollentuna FF has stadium url error...
+Parse Error --- Umea FC has stadium url error...
+Parse Error --- Vasalund IF has stadium url error...
+Parse Error --- Arameiska / Syrianska has stadium url error...
+Parse Error --- IFK Lulea has stadium url error...
+Parse Error --- Atletico Bucaramanga has stadium url error...
+Parse Error --- Envigado has stadium url error...
+Parse Error --- America de Cali has stadium url error...
+Parse Error --- La Equidad has stadium url error...
+Parse Error --- Jaguares De Cordoba has stadium url error...
+Parse Error --- Cortulua Tulua has stadium url error...
+Parse Error --- Atletico Huila has stadium url error...
+Parse Error --- Tigres FC has stadium url error...
+Parse Error --- Alianza Petrolera has stadium url error...
+Parse Error --- Deportivo Pasto has stadium url error...
+Parse Error --- Lobos BUAP has stadium url error...
+Parse Error --- Kristiansund BK has stadium url error...
+Parse Error --- Asane has stadium url error...
+Parse Error --- Arendal has stadium url error...
+Parse Error --- Floro SK has stadium url error...
+Parse Error --- Tromsdalen has stadium url error...
+Parse Error --- Levanger has stadium url error...
+Parse Error --- Strommen has stadium url error...
+Parse Error --- Ranheim has stadium url error...
+Parse Error --- Elverum has stadium url error...
+Parse Error --- Jerv has stadium url error...
+Parse Error --- Kjelsas has stadium url error...
+Parse Error --- Valerenga II has stadium url error...
+Parse Error --- Nybergsund has stadium url error...
+Parse Error --- Brumunddal has stadium url error...
+Parse Error --- Grorud IL has stadium url error...
+Parse Error --- Finnsnes has stadium url error...
+Parse Error --- Asker has stadium url error...
+Parse Error --- Raufoss has stadium url error...
+Parse Error --- KFUM has stadium url error...
+Parse Error --- Alta has stadium url error...
+Parse Error --- Notodden has stadium url error...
+Parse Error --- Odds BK II has stadium url error...
+Parse Error --- Nest-Sotra has stadium url error...
+Parse Error --- Vidar has stadium url error...
+Parse Error --- Nardo has stadium url error...
+Parse Error --- Fram Larvik has stadium url error...
+Parse Error --- Egersunds has stadium url error...
+Parse Error --- Byasen has stadium url error...
+Parse Error --- Vindbjart has stadium url error...
+Parse Error --- Vard Haugesund has stadium url error...
+Parse Error --- Fana has stadium url error...
+Parse Error --- General Diaz has stadium url error...
+Parse Error --- Independiente FBC has stadium url error...
+Parse Error --- Rubio Nu has stadium url error...
+Parse Error --- Sportivo Trinidense has stadium url error...
+Parse Error --- Sportivo Trinidense has stadium url error...
+Parse Error --- General Diaz has stadium url error...
+Parse Error --- Independiente FBC has stadium url error...
+Parse Error --- Rubio Nu has stadium url error...
+Parse Error --- Academia Cantolao has stadium url error...
+Parse Error --- Union Comercio has stadium url error...
+Parse Error --- Universidad San Martin has stadium url error...
+Parse Error --- Sport Rosario has stadium url error...
+Parse Error --- Alianza Atletico has stadium url error...
+Parse Error --- Ayacucho FC has stadium url error...
+Parse Error --- Ayacucho FC has stadium url error...
+Parse Error --- Sport Rosario has stadium url error...
+Parse Error --- Universidad San Martin has stadium url error...
+Parse Error --- Alianza Atletico has stadium url error...
+Parse Error --- Academia Cantolao has stadium url error...
+Parse Error --- UTC Cajamarca has stadium url error...
+Parse Error --- Union Comercio has stadium url error...
+Parse Error --- UTC Cajamarca has stadium url error...
+Parse Error --- Sport Rosario has stadium url error...
+Parse Error --- Academia Cantolao has stadium url error...
+Parse Error --- Universidad San Martin has stadium url error...
+Parse Error --- Union Comercio has stadium url error...
+Parse Error --- Ayacucho FC has stadium url error...
+Parse Error --- Alianza Atletico has stadium url error...
+Parse Error --- Sandecja Nowy Sacz has stadium url error...
+Parse Error --- Odra Opole has stadium url error...
+Parse Error --- Wigry Suwalki has stadium url error...
+Parse Error --- Puszcza Niepolomice has stadium url error...
+Parse Error --- Miedz Legnica has stadium url error...
+Parse Error --- Rakow Czestochowa has stadium url error...
+Parse Error --- Stomil Olsztyn has stadium url error...
+Parse Error --- Chojniczanka Chojnice has stadium url error...
+Parse Error --- Tychy 71 has stadium url error...
+Parse Error --- Bytovia Bytow has stadium url error...
+Parse Error --- Chrobry Glogow has stadium url error...
+Parse Error --- Zaglebie Sosnowiec has stadium url error...
+Parse Error --- Pogon Siedlce has stadium url error...
+Parse Error --- Stal Mielec has stadium url error...
+Parse Error --- Olimpia Grudziadz has stadium url error...
+Parse Error --- Desportivo Aves has stadium url error...
+Parse Error --- Academico Viseu has stadium url error...
+Parse Error --- Porto II has stadium url error...
+Parse Error --- Cova Piedade has stadium url error...
+Parse Error --- Sporting Braga II has stadium url error...
+Parse Error --- Sporting Covilha has stadium url error...
+Parse Error --- Sporting Lisbon II has stadium url error...
+Parse Error --- UD Oliveirense has stadium url error...
+Parse Error --- Famalicao has stadium url error...
+Parse Error --- Vitoria Guimaraes II has stadium url error...
+Parse Error --- Real Sport Clube has stadium url error...
+Parse Error --- Benfica II has stadium url error...
+Parse Error --- Tosno has stadium url error...
+Parse Error --- Yenisey Krasnoyarsk has stadium url error...
+Parse Error --- Zenit St. Petersburg II has stadium url error...
+Parse Error --- Baltika Kaliningrad has stadium url error...
+Parse Error --- Fakel has stadium url error...
+Parse Error --- Tyumen has stadium url error...
+Parse Error --- Luch Vladivostok has stadium url error...
+Parse Error --- FK Tambov has stadium url error...
+Parse Error --- Dinamo St. Petersburg has stadium url error...
+Parse Error --- Spartak Moscow II has stadium url error...
+Parse Error --- Avangard Kursk has stadium url error...
+Parse Error --- Olimpiyets has stadium url error...
+Parse Error --- Rotor Volgograd has stadium url error...
+Parse Error --- DAC Dunajska Streda has stadium url error...
+Parse Error --- Zlate Moravce has stadium url error...
+Parse Error --- Nitra has stadium url error...
+Parse Error --- Zemplin Michalovce has stadium url error...
+Parse Error --- Tatran Presov has stadium url error...
+Parse Error --- Podbrezova has stadium url error...
+Parse Error --- Colo Colo has stadium url error...
+Parse Error --- CD Universidad Catolica has stadium url error...
+Parse Error --- Audax Italiano has stadium url error...
+Parse Error --- San Luis De Quillota has stadium url error...
+Parse Error --- CD Everton has stadium url error...
+Parse Error --- Deportes Temuco has stadium url error...
+Parse Error --- Santiago Wanderers has stadium url error...
+Parse Error --- Antofagasta has stadium url error...
+Parse Error --- Curico Unido has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '194\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '160\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '160\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '196\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '167\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '167\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '165\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '196\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '158\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '198\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '160\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '167\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '179\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '164\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '163\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '165\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '179\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Parse Error --- Petrolero Yacuiba has stadium url error...
+Parse Error --- Sport Boys Warnes has stadium url error...
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Parse Error --- Delfin has stadium url error...
+Parse Error --- River Plate Ecuador has stadium url error...
+Parse Error --- Universidad Catolica has stadium url error...
+Parse Error --- Clan Juvenil has stadium url error...
+Parse Error --- FC Seoul has stadium url error...
+Parse Error --- Gwangju has stadium url error...
+Parse Error --- Incheon United has stadium url error...
+Parse Error --- Atletico Bucaramanga has stadium url error...
+Parse Error --- Envigado has stadium url error...
+Parse Error --- America de Cali has stadium url error...
+Parse Error --- La Equidad has stadium url error...
+Parse Error --- Jaguares De Cordoba has stadium url error...
+Parse Error --- Cortulua Tulua has stadium url error...
+Parse Error --- Atletico Huila has stadium url error...
+Parse Error --- Tigres FC has stadium url error...
+Parse Error --- Alianza Petrolera has stadium url error...
+Parse Error --- Deportivo Pasto has stadium url error...
+Parse Error --- Sportivo Trinidense has stadium url error...
+Parse Error --- General Diaz has stadium url error...
+Parse Error --- Independiente FBC has stadium url error...
+Parse Error --- Rubio Nu has stadium url error...
+Parse Error --- Ayacucho FC has stadium url error...
+Parse Error --- Sport Rosario has stadium url error...
+Parse Error --- Universidad San Martin has stadium url error...
+Parse Error --- Alianza Atletico has stadium url error...
+Parse Error --- Academia Cantolao has stadium url error...
+Parse Error --- UTC Cajamarca has stadium url error...
+Parse Error --- Union Comercio has stadium url error...
+Parse Error --- UTC Cajamarca has stadium url error...
+Parse Error --- Sport Rosario has stadium url error...
+Parse Error --- Academia Cantolao has stadium url error...
+Parse Error --- Universidad San Martin has stadium url error...
+Parse Error --- Union Comercio has stadium url error...
+Parse Error --- Ayacucho FC has stadium url error...
+Parse Error --- Alianza Atletico has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '194\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '160\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '160\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '196\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '167\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '167\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '165\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '196\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '158\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '198\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '160\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '167\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '179\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '164\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '163\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '165\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '169\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '179\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '179\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '200\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '159\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '198\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'contents'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '181\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '176\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '167\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '168\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '201\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '196\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '170\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '187\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '182\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '186\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '171\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '179\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '192\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '189\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '190\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '178\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '195\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '173\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '172\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '184\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '174\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '175\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '177\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '193\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '188\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '180\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '183\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '185\xa0cm'
+Giving Up Error --- <class 'ValueError'>	util.py	27	get_player	invalid literal for int() with base 10: '191\xa0cm'
+Parse Error --- Petrolero Yacuiba has stadium url error...
+Parse Error --- Sport Boys Warnes has stadium url error...
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'TypeError'>	util.py	27	get_team	'NoneType' object is not subscriptable
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_team	'NoneType' object has no attribute 'find_all'
+Parse Error --- Delfin has stadium url error...
+Parse Error --- River Plate Ecuador has stadium url error...
+Parse Error --- Universidad Catolica has stadium url error...
+Parse Error --- Clan Juvenil has stadium url error...
+Parse Error --- FC Seoul has stadium url error...
+Parse Error --- Gwangju has stadium url error...
+Parse Error --- Incheon United has stadium url error...
+Parse Error --- Atletico Bucaramanga has stadium url error...
+Parse Error --- Envigado has stadium url error...
+Parse Error --- America de Cali has stadium url error...
+Parse Error --- La Equidad has stadium url error...
+Parse Error --- Jaguares De Cordoba has stadium url error...
+Parse Error --- Cortulua Tulua has stadium url error...
+Parse Error --- Atletico Huila has stadium url error...
+Parse Error --- Tigres FC has stadium url error...
+Parse Error --- Alianza Petrolera has stadium url error...
+Parse Error --- Deportivo Pasto has stadium url error...
+Parse Error --- Sportivo Trinidense has stadium url error...
+Parse Error --- General Diaz has stadium url error...
+Parse Error --- Independiente FBC has stadium url error...
+Parse Error --- Rubio Nu has stadium url error...
+Parse Error --- Ayacucho FC has stadium url error...
+Parse Error --- Sport Rosario has stadium url error...
+Parse Error --- Universidad San Martin has stadium url error...
+Parse Error --- Alianza Atletico has stadium url error...
+Parse Error --- Academia Cantolao has stadium url error...
+Parse Error --- UTC Cajamarca has stadium url error...
+Parse Error --- Union Comercio has stadium url error...
+Parse Error --- UTC Cajamarca has stadium url error...
+Parse Error --- Sport Rosario has stadium url error...
+Parse Error --- Academia Cantolao has stadium url error...
+Parse Error --- Universidad San Martin has stadium url error...
+Parse Error --- Union Comercio has stadium url error...
+Parse Error --- Ayacucho FC has stadium url error...
+Parse Error --- Alianza Atletico has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- Rampla Juniors has stadium url error...
+Parse Error --- Plaza Colonia has stadium url error...
+Parse Error --- Liverpool FC (Montevideo) has stadium url error...
+Parse Error --- El Tanque Sisley has stadium url error...
+Parse Error --- Danubio has stadium url error...
+Parse Error --- Centro Atletico Fenix has stadium url error...
+Parse Error --- Sud America has stadium url error...
+Parse Error --- Racing Club Montevideo has stadium url error...
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'contents'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'
+Giving Up Error --- <class 'AttributeError'>	util.py	27	get_player	'NoneType' object has no attribute 'replace'

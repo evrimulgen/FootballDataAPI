@@ -1,115 +1,143 @@
 from src import util as util
+from peewee import *
+
+DATABASE = SqliteDatabase("FootballData.db")
 
 
-class Country:
-    country_list = []
+def initialize():
+    DATABASE.connect()
+    DATABASE.create_tables([Country, League, Stadium, Team, Player], safe=True)
+    DATABASE.close()
 
-    def __init__(self, name, flag_url):
-        self.name = name
-        self.flag_url = flag_url
-        Country.country_list.append(self)
 
-    def asd(self):
-        return "asd";
+class BaseModel(Model):
+    name = CharField(index=True)
+    url = CharField(null=True)
 
-    def __str__(self):
-        return self.name
+    class Meta:
+        database = DATABASE
 
-    @staticmethod
-    def is_exist(name):
-        for country in Country.country_list:
-            if name == country.name:
-                return True
-        return False
+
+class Country(BaseModel):
+    flag_url = CharField(null=True)
 
     @staticmethod
     def get_country(name):
-        for country in Country.country_list:
-            if name == country.name:
-                return country
-        return None
+        try:
+            return Country.get(Country.name == name)
+        except DoesNotExist:
+            return None
 
     @staticmethod
     def new_instance(name, flag_url):
-        if Country.is_exist(name):
-            return Country.get_country(name)
-        else:
-            return Country(name, flag_url)
+        country = Country.get_country(name)
+        if not country:
+            country = Country(name=name, flag_url=flag_url)
+            country.save()
+            return country
+        return country
 
 
-class League:
-    def __init__(self, country, name, url):
-        self.country = country
-        self.name = name.strip()
-        self.url = url
-        self.code = util.find_code(url)
-        self.teams = []
+class League(BaseModel):
+    country = ForeignKeyField(Country, related_name="leagues", on_delete='CASCADE', on_update='CASCADE')
+    url = CharField()
+    code = CharField()
 
-    def __str__(self):
-        return str(self.code) + " " * (8-len(str(self.code))) + "|" + \
-               self.name + " " * (40-len(self.name)) + "|" + \
-               str(self.country) + " " * (15-len(str(self.country))) + "|" + \
-               self.url
+    @staticmethod
+    def get_league(url):
+        try:
+            return League.get(League.url == url)
+        except DoesNotExist:
+            return None
 
-
-class Team:
-    def __init__(self, league, name, logo_url, website_url, found_date, phone_number, fax_number, address, stadium, url):
-        self.league = league
-        self.name = name
-        self.logo_url = logo_url
-        self.website_url = website_url
-        self.found_date = found_date
-        self.phone_number = phone_number
-        self.fax_number = fax_number
-        self.address = address
-        self.stadium = stadium
-        stadium.team = self
-        self.url = url
-        self.code = util.find_code(url)
-        self.players = []
-
-    def __str__(self):
-        return str(self.code) + " " * (8 - len(str(self.code))) + "|" + self.name + " " * (35 - len(self.name)) + "|" + self.url
-
-    def info(self):
-        print("Name: " + self.name + "\nFound: " + self.found_date + "\nStadium: " + str(self.stadium) + "\nWebsite: " +
-              self.website_url + "\nPhone Number: " + self.phone_number + "\nAdress: " + self.adress + "\nLogo: " + self.logo_url)
+    @staticmethod
+    def new_instance(country, name, url):
+        league = League.get_league(url)
+        if not league:
+            league = League(country=country, name=name, url=url, code=util.find_code(url))
+            league.save()
+            return league
+        return league
 
 
-class Stadium:
-    def __init__(self, name, capacity, url):
-        self.name = name
-        self.capacity = capacity
-        self.url = url
+class Stadium(BaseModel):
+    capacity = CharField(max_length=14, null=True)
 
-    def __str__(self):
-        return self.name + " (" + self.capacity + ")"
+    @staticmethod
+    def get_stadium(name):
+        try:
+            return Stadium.get(Stadium.name == name)
+        except DoesNotExist:
+            return None
 
-
-class Player:
-
-    def __init__(self, team, name, long_name, birth_date, birth_place, height, weight, position, contract_expiry_date, country, photo_url, url):
-        self.team = team
-        self.name = name
-        self.long_name = long_name
-        self.birth_date = birth_date
-        self.birth_place = birth_place
-        self.height = height
-        self.weight = weight
-        self.position = position
-        self.contract_expiry_date = contract_expiry_date
-        self.country = country
-        self.photo_url = photo_url
-        self.url = url
-
-    def __str__(self):
-        return self.name
-
-    def info(self):
-        print("Name: " + self.name + "\nTeam: " + str(self.team) + "\nLong Name: " + self.long_name + "\nBirth Date: " + self.birth_date +
-              "\nBirth Place: " + self.birth_place + "\nHeight: " + self.height + "\nWeight: " + self.weight + "\nPosition: " + self.position +
-              "\nContract Expiry Date: " + self.contract_expiry_date + "\nCountry: " + str(self.country) + "\nPhoto URL: " + self.photo_url)
+    @staticmethod
+    def new_instance(name, url, capacity):
+        stadium = Stadium.get_stadium(name)
+        if not stadium:
+            stadium = Stadium(name=name, url=url, capacity=capacity)
+            stadium.save()
+            return stadium
+        return stadium
 
 
+class Team(BaseModel):
+    league = ForeignKeyField(League, related_name="teams", on_delete='CASCADE', on_update='CASCADE')
+    logo_url = CharField(null=True)
+    website_url = CharField(null=True)
+    found_date = CharField(max_length=6, null=True)
+    phone_number = CharField(max_length=14, null=True)
+    fax_number = CharField(max_length=14, null=True)
+    address = CharField(null=True)
+    stadium = ForeignKeyField(Stadium, related_name="owners", null=True)
+    code = CharField()
+
+    @staticmethod
+    def get_team(url):
+        try:
+            return Team.get(Team.url == url)
+        except DoesNotExist:
+            return None
+
+    @staticmethod
+    def new_instance(name, league, stadium, found_date, address, phone_number, fax_number, website_url, logo_url, url):
+        team = Team.get_team(url)
+        if not team:
+            team = Team(name=name, league=league, stadium=stadium, found_date=found_date, adress=address,
+                        phone_number=phone_number, fax_number=fax_number, website_url=website_url, logo_url=logo_url,
+                        url=url, code=util.find_code(url))
+            team.save()
+            return team
+        return team
 
 
+class Player(BaseModel):
+    team = ForeignKeyField(Team, related_name="players", on_delete='CASCADE', on_update="CASCADE")
+    country = ForeignKeyField(Country, related_name="citizens")
+    long_name = CharField(null=True)
+    birth_date = CharField(null=True)
+    birth_place = CharField(null=True)
+    height = IntegerField(null=True)
+    weight = IntegerField(null=True)
+    position = CharField(null=True)
+    contract_expiry_date = CharField(null=True)
+    photo_url = CharField(null=True)
+
+    @staticmethod
+    def get_player(name):
+        try:
+            return Player.get(Player.name == name)
+        except DoesNotExist:
+            return None
+
+    @staticmethod
+    def new_instance(name, team, country, long_name, birth_date, birth_place, height, weight, position,
+                     contract_expiry_date, photo_url, url):
+        player = Player.get_player(name)
+        if not player:
+            player = Player(name=name, team=team, country=country, long_name=long_name, birth_date=birth_date,
+                            birth_place=birth_place, height=height, weight=weight, position=position,
+                            contract_expiry_date=contract_expiry_date, photo_url=photo_url, url=url)
+            player.save()
+            return player
+
+        return player
