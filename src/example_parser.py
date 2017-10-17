@@ -150,4 +150,5 @@ def menu(leagues):
 
 if __name__ == "__main__":
     initialize()
-    parse()
+    leagues = parse()
+    menu(leagues)
